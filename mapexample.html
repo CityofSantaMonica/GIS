@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Map Example</title>
+    <style type="text/css">
+        #map {
+            width: 640px;
+            height: 480px;
+        }
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="http://maps.googleapis.com/maps/api/js?sensor=true" type="text/javascript"></script>
+    <script type="text/javascript">
+        function initialize() {
+            google.maps.visualRefresh = true;
+            map = new google.maps.Map(document.getElementById('map'));
+            var bounds = new google.maps.LatLngBounds();
+            $.getJSON('https://raw.github.com/CityofSantaMonica/GIS/master/bike_ways.geojson', function (data) {
+                $.each(data.features, function (key, val) {
+                    var poly = new google.maps.Polyline();
+                    var points = new Array();
+                    $.each(val.geometry.coordinates[0], function (key, xyCoord) {
+                        var point = new google.maps.LatLng(xyCoord[1], xyCoord[0]);
+                        bounds.extend(point)
+                        points.push(point);
+                    });
+                    poly.setMap(map);
+                    poly.setPath(points);
+                });
+            });
+            map.fitBounds(bounds);
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+</head>
+<body>
+    <h1>Map Example</h1>
+    <div id="map"></div>
+</body>
+</html>
