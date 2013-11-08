@@ -13,10 +13,10 @@ Data Formats
 
 The City of Santa Monica is providing most data files in the open [`geoJSON`](http://en.wikipedia.org/wiki/GeoJSON) file format.
 
-If alternate file formats are desirable, you can:
+If alternate file formats are desired, you can:
 
 1. Fork this repository.
 2. For each data set you are interested in, create a new directory (or use an existing directory).
-3. Convert the files that interest you into your format of choice, and place the additional formats in the same directory.
+3. Convert the files that interest you into your format of choice. Place additional formats in a common directory.
 4. Submit a pull request.
 
