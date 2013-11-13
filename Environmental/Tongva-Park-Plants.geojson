@@ -14,10 +14,10 @@
 			"SHAPE_Leng": 1096.64887443,
 			"SHAPE_Area": 42077.059853500003,
 			"PlantTypes": [{
-				"Name": "Bulbs",
+				"Type": "Bulbs",
 				"Plants": [{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Amaryllis belladonna",
 					"CommonName": "Naked Lady",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_28b9acad-b714-4d7e-bc6a-cb7ce0d06346.jpg",
@@ -25,7 +25,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Amaryllis belladonna ‘Alba’",
 					"CommonName": "White Naked Lady",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4f6521b7-b072-41f1-904b-1681b55e2701.jpg",
@@ -33,7 +33,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Canna ‘Lucifer’",
 					"CommonName": "Canna",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_12b69e97-0a80-49f7-b9bf-b0fb153006bb.jpg",
@@ -41,7 +41,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Canna ‘Tropicanna’",
 					"CommonName": "Canna",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5a3929ea-45c3-4650-91c3-b09f18ff6b0a.jpg",
@@ -49,7 +49,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Crinum bulbispermum",
 					"CommonName": "Corn Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a63f6bd6-9492-4097-b8cb-4b3de92b1586.jpg",
@@ -57,7 +57,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Gladiolus dalenii",
 					"CommonName": "Parrot Gladiola",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_97d1d146-80c6-4971-a3b7-316df058370b.jpg",
@@ -65,7 +65,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Gladiolus tristis",
 					"CommonName": "Yellow Marsh Afrikane",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c91fe866-f53f-4dca-9fe4-2874ca86038d.jpg",
@@ -73,7 +73,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Hyacinthoides hispanica ‘White’",
 					"CommonName": "Spanish Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4eb6398e-dd1a-47e0-89d2-44fb5bdf7fb5.jpg",
@@ -81,7 +81,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Iris douglasiana",
 					"CommonName": "Douglas Iris",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_66ee0f73-6473-40aa-8c65-bfe6eccf45c6.jpg",
@@ -89,7 +89,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Oxalis purpurea ‘Grand Duchess White’",
 					"CommonName": "Grand Duchess White",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_be34d725-72e2-410f-ab35-06b1a611c0ed.jpg",
@@ -97,7 +97,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Tritonia crocata",
 					"CommonName": "Flame Freesia",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_94149d5e-faca-4653-a6ce-b1f92121a694.jpg",
@@ -105,7 +105,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Tritonia hyalina",
 					"CommonName": "Orange",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_0f836135-c166-4637-a271-7441c8bc5593.jpg",
@@ -113,7 +113,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Urginea maritima",
 					"CommonName": "Sea Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6c69ee9-a2f3-4fcc-b38e-ed8fd53309a3.jpg",
@@ -121,7 +121,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Zephyranthes candida",
 					"CommonName": "Fairy Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_8fc27917-5afe-4805-b42b-81f888f6ea9d.jpg",
@@ -129,10 +129,10 @@
 				}]
 			},
 			{
-				"Name": "Palms and Cycads",
+				"Type": "Palms and Cycads",
 				"Plants": [{
 					"Location": "Observation Hill",
-					"PlantType": "Palms and Cycads",
+					"Type": "Palms and Cycads",
 					"LatinName": "Dioon spinulosum",
 					"CommonName": "Giant Dioon",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c06e1235-084e-4a2b-a6c8-407cc2d655b5.jpg",
@@ -140,10 +140,10 @@
 				}]
 			},
 			{
-				"Name": "Perennials and Grasses",
+				"Type": "Perennials and Grasses",
 				"Plants": [{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agave americana",
 					"CommonName": "Century Plant",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_580fc551-a157-4926-9ad8-75e1c514f61d.jpg",
@@ -151,7 +151,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agave attenuata",
 					"CommonName": "Foxtail Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1edecfb5-871c-4cfa-95c6-e78e157e2dbe.JPG",
@@ -159,7 +159,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agave franzosinii",
 					"CommonName": "Octopus Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9bc85d96-0d7e-465d-814c-251b4aa2e689.jpg",
@@ -167,7 +167,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Aristida purpurea",
 					"CommonName": "Purple Three-awn",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_65f561aa-721c-4b72-8819-650fc5d56784.jpg",
@@ -175,7 +175,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Artemisia californica",
 					"CommonName": "California Sagebrush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50c65002-becd-4333-95eb-a06181d4d5b5.jpg",
@@ -183,7 +183,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Bouteloua gracilis ‘Blonde Ambition’",
 					"CommonName": "Blue Grama",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6d9ebef-6f87-4e08-8382-1eca4c234aca.jpg",
@@ -191,7 +191,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Calamagrostis nutkaensis",
 					"CommonName": "Pacific Reedgrass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5b64a90f-232b-48db-bc4b-c06f2679f29b.jpg",
@@ -199,7 +199,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Carex divulsa",
 					"CommonName": "Berkeley Sedge",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a6474894-1976-4f0c-82fe-6a435a9e29df.jpg",
@@ -207,7 +207,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Carex pansa",
 					"CommonName": "California Dune Sedge",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1cff1a25-0b05-4446-ab47-52b7e0d1cdc0.jpg",
@@ -215,7 +215,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Eriogonum cinereum",
 					"CommonName": "Ashyleaf Buckwheat",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_fbe05a11-5b03-47bc-911b-ca25c2bae45d.jpg",
@@ -223,7 +223,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Festuca mairei ‘Greenlee’s Form’",
 					"CommonName": "Atlas Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b3464f8a-5b07-465f-bb42-b0560293ec20.jpg",
@@ -231,7 +231,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Gaura lindheimeri",
 					"CommonName": "Gaura",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_99ee85f3-1d18-4942-9224-86f85582c838.jpg",
@@ -239,7 +239,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Hesperaloe parviflora",
 					"CommonName": "Red Yucca",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ae889951-5cb2-4e87-8e4b-66be15e8f4a6.jpg",
@@ -247,7 +247,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Lomandra ‘Gary’s Green’",
 					"CommonName": "Mat Rush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_f62f7c1b-6573-4b2c-8fe9-7df5ab322a52.jpg",
@@ -255,7 +255,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Lomandra longifolia Nyalla",
 					"CommonName": "Nyalla Mat Rush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_cd404af5-9e85-4d41-9e22-ace6cb816174.jpg",
@@ -263,7 +263,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Muhlenbergia capillaris ‘White Cloud’",
 					"CommonName": "White Cloud Muhly",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6dc0e28-8232-408c-8740-09beb993a228.jpg",
@@ -271,7 +271,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Pennisetum ‘Fairy Tales’",
 					"CommonName": "Fairy Tails Fountain Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e8b68a72-76dd-4918-ad39-f9584b09acb1.jpg",
@@ -279,7 +279,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Pennisetum spathiolatum",
 					"CommonName": "Slender Veldt Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50320a32-16e0-40ff-947d-b586a6b4352b.jpg",
@@ -287,7 +287,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Urginea maritima",
 					"CommonName": "Sea Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6c69ee9-a2f3-4fcc-b38e-ed8fd53309a3.jpg",
@@ -295,10 +295,10 @@
 				}]
 			},
 			{
-				"Name": "Seed",
+				"Type": "Seed",
 				"Plants": [{
 					"Location": "Observation Hill",
-					"PlantType": "Seed",
+					"Type": "Seed",
 					"LatinName": "Festuca mairei ‘Greenlee’s Form’",
 					"CommonName": "Atlas Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b3464f8a-5b07-465f-bb42-b0560293ec20.jpg",
@@ -306,7 +306,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Seed",
+					"Type": "Seed",
 					"LatinName": "Pennisetum spathiolatum",
 					"CommonName": "Slender Veldt Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50320a32-16e0-40ff-947d-b586a6b4352b.jpg",
@@ -314,10 +314,10 @@
 				}]
 			},
 			{
-				"Name": "Succulents",
+				"Type": "Succulents",
 				"Plants": [{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aeonium ‘Jolly Green’",
 					"CommonName": "Aeonium",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_58c5cdef-e2ef-47d5-9268-67ec307d4cc2.jpg",
@@ -325,7 +325,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aeonium arboreum",
 					"CommonName": "Tree Aeonium",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50836b28-6a0c-4692-9a0f-3ab4132b3423.jpg",
@@ -333,7 +333,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave ‘Sharkskin Shoes’",
 					"CommonName": "Northern Sharkskin Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_68fbec49-5e29-4d7f-b5f2-4cd0b78e7339.jpg",
@@ -341,7 +341,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave americana",
 					"CommonName": "Century Plant",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_580fc551-a157-4926-9ad8-75e1c514f61d.jpg",
@@ -349,7 +349,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave attenuata",
 					"CommonName": "Foxtail Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1edecfb5-871c-4cfa-95c6-e78e157e2dbe.JPG",
@@ -357,7 +357,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave attenuata ‘Boutin Blue’",
 					"CommonName": "Blue Foxtail Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1403de97-e2b4-44e9-812b-0e3b75687f89.jpg",
@@ -365,7 +365,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave franzosinii",
 					"CommonName": "Octopus Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9bc85d96-0d7e-465d-814c-251b4aa2e689.jpg",
@@ -373,7 +373,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave salmiana ‘Green Giant’",
 					"CommonName": "Giant Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1d726cc8-f93f-48bd-9547-5776221cf3ee.jpg",
@@ -381,7 +381,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe barberae (A_ bainesii)",
 					"CommonName": "Tree Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_2bf51073-30e8-42ac-bdf1-d274be2317d4.jpg",
@@ -389,7 +389,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe barberae (A_ bainesii)(1)",
 					"CommonName": "Tree Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a6b0de5d-afc2-4df4-9722-395d92a0bd9e.jpg",
@@ -397,7 +397,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe barberae (A_ bainesii)(2)",
 					"CommonName": "Tree Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6583b4de-5642-4e8b-97c5-f9382660f2c4.jpg",
@@ -405,7 +405,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe ferox",
 					"CommonName": "Bitter Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_2154a5c5-f840-4a31-881c-472106c9ba14.jpg",
@@ -413,7 +413,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe plicatilis",
 					"CommonName": "Fan Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ea518652-169c-4d23-9971-ee19cc1b94f0.jpg",
@@ -421,7 +421,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe specoisa",
 					"CommonName": "Tilt Head Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c875479d-f25f-4901-b1e0-a093f3c1c1dd.jpg",
@@ -429,7 +429,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe striata",
 					"CommonName": "Coral Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_7e80badd-3382-41ea-b51d-809dcdfff1c7.jpg",
@@ -437,7 +437,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Dasylirion wheeleri",
 					"CommonName": "Desert Spoon",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_bbfc1b3d-4492-439f-85f2-88ca0322b7ed.jpg",
@@ -445,7 +445,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Dioon spinulosum",
 					"CommonName": "Giant Dioon",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c06e1235-084e-4a2b-a6c8-407cc2d655b5.jpg",
@@ -453,7 +453,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Hesperoyucca whipplei",
 					"CommonName": "Our Lord’s Candle",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5804e997-0a7a-41de-8c2c-61773ac39893.jpg",
@@ -461,7 +461,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Senecio talinoides",
 					"CommonName": "Blue Chalksticks",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_d99d92aa-98ed-4bed-8a38-e4b7549f3f2d.jpg",
@@ -469,10 +469,10 @@
 				}]
 			},
 			{
-				"Name": "Trees",
+				"Type": "Trees",
 				"Plants": [{
 					"Location": "Observation Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Olea europaea ‘Swan Hill’",
 					"CommonName": "Olive",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_2efba6a0-2dd5-486c-9c28-08e2773390e8.jpg",
@@ -480,7 +480,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Pinus pinea",
 					"CommonName": "Stone Pine",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_3fe57696-52e5-4822-9889-655e6acf2a6b.jpg",
@@ -488,7 +488,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Tipuana tipu ‘Rosewood’",
 					"CommonName": "Rosewood",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9e675253-8352-4e0c-bf94-d40031492ecc.jpg",
@@ -496,10 +496,10 @@
 				}]
 			},
 			{
-				"Name": "Vines",
+				"Type": "Vines",
 				"Plants": [{
 					"Location": "Observation Hill",
-					"PlantType": "Vines",
+					"Type": "Vines",
 					"LatinName": "Clematis lasiantha",
 					"CommonName": "Pipestem Clematis",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_cf8b910e-951b-42a3-b6fb-7c5c62873b87.jpg",
@@ -507,7 +507,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Vines",
+					"Type": "Vines",
 					"LatinName": "Clematis macropetala",
 					"CommonName": "Blue Bird",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_68a99a67-4515-470c-98b3-79c24ee7adde.jpg",
@@ -515,7 +515,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Vines",
+					"Type": "Vines",
 					"LatinName": "Ficus pumila",
 					"CommonName": "Climbing Fig",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_64c2bb6c-49e0-4c56-bc93-9fdd00783c44.jpg",
@@ -523,7 +523,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Vines",
+					"Type": "Vines",
 					"LatinName": "Jasminum polyanthum",
 					"CommonName": "Pink Jasmine",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5ae7bab1-92ee-4d73-8165-cebfc7198a4e.jpg",
@@ -531,7 +531,7 @@
 				},
 				{
 					"Location": "Observation Hill",
-					"PlantType": "Vines",
+					"Type": "Vines",
 					"LatinName": "Trachelospermum jasminoides",
 					"CommonName": "Star Jasmine",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_31b04cae-4c24-4b08-b405-acfa887b04a6.jpg",
@@ -799,10 +799,10 @@
 			"SHAPE_Leng": 823.72882340000001,
 			"SHAPE_Area": 35626.900937400002,
 			"PlantTypes": [{
-				"Name": "Bulbs",
+				"Type": "Bulbs",
 				"Plants": [{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Alstroemeria ‘Davina’",
 					"CommonName": "Little Miss Davina Peruvian Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b964c7d2-6427-4a11-911a-e0a9b60f0845.jpg",
@@ -810,7 +810,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Alstroemeria ‘Roselind’",
 					"CommonName": "Peruvian Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6c0e720a-c740-456a-a385-50625c833a77.jpg",
@@ -818,7 +818,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Alstroemeria ‘Tall Pink’",
 					"CommonName": "Peruvian Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_300f3000-ef86-4f95-ba2c-0e23983d78b6.jpg",
@@ -826,7 +826,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Amaryllis belladonna",
 					"CommonName": "Naked Lady",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_28b9acad-b714-4d7e-bc6a-cb7ce0d06346.jpg",
@@ -834,7 +834,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Amaryllis belladonna ‘Alba’",
 					"CommonName": "White Naked Lady",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4f6521b7-b072-41f1-904b-1681b55e2701.jpg",
@@ -842,7 +842,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Canna ‘Lucifer’",
 					"CommonName": "Canna",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_12b69e97-0a80-49f7-b9bf-b0fb153006bb.jpg",
@@ -850,7 +850,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Canna ‘Tropicanna’",
 					"CommonName": "Canna",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5a3929ea-45c3-4650-91c3-b09f18ff6b0a.jpg",
@@ -858,7 +858,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Crinum ‘Ellen Bosanquet’",
 					"CommonName": "Corn Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_02f2b0ce-c2df-443b-af3b-c960c961ace4.jpg",
@@ -866,7 +866,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Crinum bulbispermum",
 					"CommonName": "Corn Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a63f6bd6-9492-4097-b8cb-4b3de92b1586.jpg",
@@ -874,7 +874,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Crinum x powellii",
 					"CommonName": "Corn Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9e428a4a-4ef5-448d-8b0e-1d9fd0b82df5.jpg",
@@ -882,7 +882,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Tritonia ‘Rosy Picture’",
 					"CommonName": "Flame Freesia",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5fcc45c1-5e4e-497d-a71e-41fbb51f2d8e.jpg",
@@ -890,7 +890,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Urginea maritima",
 					"CommonName": "Sea Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6c69ee9-a2f3-4fcc-b38e-ed8fd53309a3.jpg",
@@ -898,7 +898,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Veltheimia viridifolia",
 					"CommonName": "Forest Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_832a380c-d9fc-44d8-8d37-b5278eb7f2ac.jpg",
@@ -906,7 +906,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Watsonia coccinea",
 					"CommonName": "Bugle Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_2e51a484-c042-4d8d-834b-d54f94a9f5d0.jpg",
@@ -914,7 +914,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Watsonia humilis",
 					"CommonName": "Pink Bugle Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_543a2bba-68bd-404e-ab69-b55c94b21b99.jpg",
@@ -922,7 +922,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Zephyranthes ‘La Buffa Rosa’",
 					"CommonName": "Giant Prarie Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_bde53b93-2db9-4b63-92eb-b98ecabaf474.jpg",
@@ -930,10 +930,10 @@
 				}]
 			},
 			{
-				"Name": "Palms and Cycads",
+				"Type": "Palms and Cycads",
 				"Plants": [{
 					"Location": "Gathering Hill",
-					"PlantType": "Palms and Cycads",
+					"Type": "Palms and Cycads",
 					"LatinName": "Brahea edulis",
 					"CommonName": "Guadalupe Fan Palm",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_adbfcd75-460b-48e6-9039-13e5a9876567.jpg",
@@ -941,7 +941,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Palms and Cycads",
+					"Type": "Palms and Cycads",
 					"LatinName": "Dioon spinulosum",
 					"CommonName": "Giant Dioon",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c06e1235-084e-4a2b-a6c8-407cc2d655b5.jpg",
@@ -949,7 +949,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Palms and Cycads",
+					"Type": "Palms and Cycads",
 					"LatinName": "Livistona australis",
 					"CommonName": "Australian Cabbage Palm",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e15a03a2-d82c-4ad6-80e4-04add60ab18e.jpg",
@@ -957,7 +957,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Palms and Cycads",
+					"Type": "Palms and Cycads",
 					"LatinName": "Sabal minor",
 					"CommonName": "Dwarf Palm",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6367ec3d-c3cc-4df2-948e-a507b963af56.jpg",
@@ -965,10 +965,10 @@
 				}]
 			},
 			{
-				"Name": "Perennials and Grasses",
+				"Type": "Perennials and Grasses",
 				"Plants": [{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Acorus gramineus",
 					"CommonName": "Japanese Sweet Flag",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ac27165c-0788-4faa-a32a-e0a9ab049eb6.jpg",
@@ -976,7 +976,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Aristida purpurea",
 					"CommonName": "Purple Three-awn",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_65f561aa-721c-4b72-8819-650fc5d56784.jpg",
@@ -984,7 +984,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Bouteloua gracilis ‘Blonde Ambition’",
 					"CommonName": "Blue Grama",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6d9ebef-6f87-4e08-8382-1eca4c234aca.jpg",
@@ -992,7 +992,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Calamagrostis nutkaensis",
 					"CommonName": "Pacific Reedgrass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5b64a90f-232b-48db-bc4b-c06f2679f29b.jpg",
@@ -1000,7 +1000,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Carex divulsa",
 					"CommonName": "Berkeley Sedge",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a6474894-1976-4f0c-82fe-6a435a9e29df.jpg",
@@ -1008,7 +1008,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Carex pansa",
 					"CommonName": "California Dune Sedge",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1cff1a25-0b05-4446-ab47-52b7e0d1cdc0.jpg",
@@ -1016,7 +1016,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Erigeron glaucus ‘Sea Breeze’",
 					"CommonName": "Fleabane",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a8e2f0db-7cb8-46a8-8209-aebaa90f264d.jpg",
@@ -1024,7 +1024,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Falkia repens",
 					"CommonName": "Creeping Falkia",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9138bc54-ad54-4c88-9468-382e9ad2db54.jpg",
@@ -1032,7 +1032,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Festuca mairei ‘Greenlee’s Form’",
 					"CommonName": "Atlas Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b3464f8a-5b07-465f-bb42-b0560293ec20.jpg",
@@ -1040,7 +1040,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Gaura lindheimeri ‘Siskiyou Pink’",
 					"CommonName": "Pink Gaura",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_547e3e36-c2d8-4e10-a32a-e2211dba0b6f.jpg",
@@ -1048,7 +1048,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Marsilea drummondii",
 					"CommonName": "Nardoo",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_456a60de-0e88-4e50-bfa6-f2b8b6963bad.jpg",
@@ -1056,7 +1056,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Marsilea mutica",
 					"CommonName": "Water Clover",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_43e4901c-c33a-429e-bf68-23f19e9225b7.jpg",
@@ -1064,7 +1064,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Marsilea schelpiana",
 					"CommonName": "Small-Leafed Water Clover",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_2d3bb4c1-5c1a-4e2a-a371-a50b9f2d99d5.jpg",
@@ -1072,7 +1072,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Marsilea vestita",
 					"CommonName": "California Marsilea",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_42189c5b-4a86-42d4-9a05-09b7ef090739.jpg",
@@ -1080,7 +1080,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Melinis nerviglumis",
 					"CommonName": "Ruby Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_118d2902-9444-4e21-a7e1-6d604e39329c.jpg",
@@ -1088,7 +1088,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Muhlenbergia ‘Pink Flamingo’",
 					"CommonName": "Pink Flamingo Muhly Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e995889d-29e5-419d-894b-a7424080b0c9.jpg",
@@ -1096,7 +1096,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Pennisetum ‘Fairy Tales’",
 					"CommonName": "Fairy Tails Fountain Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e8b68a72-76dd-4918-ad39-f9584b09acb1.jpg",
@@ -1104,7 +1104,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Pennisetum orientale",
 					"CommonName": "Chinese Fountain Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_d6fa9c62-0321-46da-81bc-e25c5b0092b6.jpg",
@@ -1112,7 +1112,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Pennisetum spathiolatum",
 					"CommonName": "Slender Veldt Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50320a32-16e0-40ff-947d-b586a6b4352b.jpg",
@@ -1120,7 +1120,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Philodendron ‘Xanadu’",
 					"CommonName": "Philodendron",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9dead517-08dd-40ab-b955-a2522b482726.jpg",
@@ -1128,7 +1128,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Schefflera arborecola",
 					"CommonName": "Hawaiian Schefflera",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4d027221-172a-43db-ada3-60c6d1daaa92.jpg",
@@ -1136,7 +1136,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Schefflera pueckleri",
 					"CommonName": "Mallet Flower",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4e98ff64-120f-4e8e-8b0c-def1c4160112.jpg",
@@ -1144,7 +1144,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Urginea maritima",
 					"CommonName": "Sea Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6c69ee9-a2f3-4fcc-b38e-ed8fd53309a3.jpg",
@@ -1152,10 +1152,10 @@
 				}]
 			},
 			{
-				"Name": "Seed",
+				"Type": "Seed",
 				"Plants": [{
 					"Location": "Gathering Hill",
-					"PlantType": "Seed",
+					"Type": "Seed",
 					"LatinName": "Festuca mairei ‘Greenlee’s Form’",
 					"CommonName": "Atlas Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b3464f8a-5b07-465f-bb42-b0560293ec20.jpg",
@@ -1163,7 +1163,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Seed",
+					"Type": "Seed",
 					"LatinName": "Pennisetum spathiolatum",
 					"CommonName": "Slender Veldt Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50320a32-16e0-40ff-947d-b586a6b4352b.jpg",
@@ -1171,10 +1171,10 @@
 				}]
 			},
 			{
-				"Name": "Succulents",
+				"Type": "Succulents",
 				"Plants": [{
 					"Location": "Gathering Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Dioon spinulosum",
 					"CommonName": "Giant Dioon",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c06e1235-084e-4a2b-a6c8-407cc2d655b5.jpg",
@@ -1182,10 +1182,10 @@
 				}]
 			},
 			{
-				"Name": "Trees",
+				"Type": "Trees",
 				"Plants": [{
 					"Location": "Gathering Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Arbutus marina",
 					"CommonName": "Marina Strawberry Tree",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b229e1ad-66fc-44aa-a4cc-5700dee4b7bb.JPG",
@@ -1193,7 +1193,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Butia capitata",
 					"CommonName": "Jelly Palm",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5e1806b9-81b5-48a8-8d0b-c12dd0930bb0.jpg",
@@ -1201,7 +1201,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Chamaerop Humilis",
 					"CommonName": "European Fan Palm",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_88643fa2-fe2e-4ece-a055-de5c1f109667.jpg",
@@ -1209,7 +1209,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Platanus racemosa",
 					"CommonName": "California Sycamore",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ea744725-8cfd-4e06-82d8-1b054270585e.jpg",
@@ -1217,7 +1217,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Tabebuia impetiginosa",
 					"CommonName": "Pink Ipe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1849d482-582a-4923-a918-12116136c25c.jpg",
@@ -1225,10 +1225,10 @@
 				}]
 			},
 			{
-				"Name": "Vines",
+				"Type": "Vines",
 				"Plants": [{
 					"Location": "Gathering Hill",
-					"PlantType": "Vines",
+					"Type": "Vines",
 					"LatinName": "Jasminum polyanthum",
 					"CommonName": "Pink Jasmine",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5ae7bab1-92ee-4d73-8165-cebfc7198a4e.jpg",
@@ -1236,7 +1236,7 @@
 				},
 				{
 					"Location": "Gathering Hill",
-					"PlantType": "Vines",
+					"Type": "Vines",
 					"LatinName": "Trachelospermum jasminoides",
 					"CommonName": "Star Jasmine",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_31b04cae-4c24-4b08-b405-acfa887b04a6.jpg",
@@ -1420,10 +1420,10 @@
 			"SHAPE_Leng": 779.36736280000002,
 			"SHAPE_Area": 39163.262503700003,
 			"PlantTypes": [{
-				"Name": "Bulbs",
+				"Type": "Bulbs",
 				"Plants": [{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Alstroemeria ‘Sussex Gold’",
 					"CommonName": "Yellow Peruvian Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_fdc31906-5d2b-47af-88aa-fde2352be3b4.jpg",
@@ -1431,7 +1431,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Alstroemeria ‘Tall Red’",
 					"CommonName": "Red Peruvian Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6219538f-ccfe-4344-b72d-a553f1fbaca0.jpg",
@@ -1439,7 +1439,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Amaryllis belladonna",
 					"CommonName": "Naked Lady",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_28b9acad-b714-4d7e-bc6a-cb7ce0d06346.jpg",
@@ -1447,7 +1447,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Amaryllis belladonna ‘Alba’",
 					"CommonName": "White Naked Lady",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4f6521b7-b072-41f1-904b-1681b55e2701.jpg",
@@ -1455,7 +1455,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Canna ‘Lucifer’",
 					"CommonName": "Canna",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_12b69e97-0a80-49f7-b9bf-b0fb153006bb.jpg",
@@ -1463,7 +1463,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Canna ‘Tropicanna’",
 					"CommonName": "Canna",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5a3929ea-45c3-4650-91c3-b09f18ff6b0a.jpg",
@@ -1471,7 +1471,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Gladiolus dalenii",
 					"CommonName": "Parrot Gladiola",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_97d1d146-80c6-4971-a3b7-316df058370b.jpg",
@@ -1479,7 +1479,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Gladiolus dalenii ‘Carolina Primrose’",
 					"CommonName": "Parrot Gladiola",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_506f6da7-1fa4-4b50-b6db-16cf1882d89f.jpg",
@@ -1487,7 +1487,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Hyacinthoides hispanica ‘White’",
 					"CommonName": "Spanish Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4eb6398e-dd1a-47e0-89d2-44fb5bdf7fb5.jpg",
@@ -1495,7 +1495,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Iris douglasiana ‘Canyon Snow’",
 					"CommonName": "Douglas Iris",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_fef1961b-6c14-4ab5-88fa-d0d6705173fa.jpg",
@@ -1503,7 +1503,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Ixia paniculata",
 					"CommonName": "Corn Lily, Angels Trumpets",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c84118fb-5c82-48c4-a8a5-086f23f51ee7.jpg",
@@ -1511,7 +1511,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Oxalis purpurea ‘Grand Duchess White’",
 					"CommonName": "Grand Duchess White",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_be34d725-72e2-410f-ab35-06b1a611c0ed.jpg",
@@ -1519,7 +1519,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Oxalis purpurea ‘Grand Duchess’",
 					"CommonName": "Oxalis",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_f9b40d11-5c3f-46d0-bfd7-0a6baa4a8056.jpg",
@@ -1527,7 +1527,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Polianthes tuberosa",
 					"CommonName": "Tuberose",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_184aed35-e9b4-4b67-a7c4-d87921219181.jpg",
@@ -1535,7 +1535,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Tritonia hyalina",
 					"CommonName": "Orange",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_0f836135-c166-4637-a271-7441c8bc5593.jpg",
@@ -1543,7 +1543,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Urginea maritima",
 					"CommonName": "Sea Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6c69ee9-a2f3-4fcc-b38e-ed8fd53309a3.jpg",
@@ -1551,7 +1551,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Watsonia borbonica ‘Dazzler’",
 					"CommonName": "Orange Bugle Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_759cabfc-8466-413d-85bc-6309205a115b.jpg",
@@ -1559,7 +1559,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Watsonia gladioloides",
 					"CommonName": "Bugle Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_54e779ff-b202-49a6-b342-8a5c6b6ceeda.jpg",
@@ -1567,7 +1567,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Zephyranthes candida",
 					"CommonName": "Fairy Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_8fc27917-5afe-4805-b42b-81f888f6ea9d.jpg",
@@ -1575,10 +1575,10 @@
 				}]
 			},
 			{
-				"Name": "Perennials and Grasses",
+				"Type": "Perennials and Grasses",
 				"Plants": [{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Acorus gramineus",
 					"CommonName": "Japanese Sweet Flag",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ac27165c-0788-4faa-a32a-e0a9ab049eb6.jpg",
@@ -1586,7 +1586,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agave attenuata",
 					"CommonName": "Foxtail Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1edecfb5-871c-4cfa-95c6-e78e157e2dbe.JPG",
@@ -1594,7 +1594,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agave franzosinii",
 					"CommonName": "Octopus Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9bc85d96-0d7e-465d-814c-251b4aa2e689.jpg",
@@ -1602,7 +1602,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Bouteloua gracilis ‘Blonde Ambition’",
 					"CommonName": "Blue Grama",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6d9ebef-6f87-4e08-8382-1eca4c234aca.jpg",
@@ -1610,7 +1610,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Buchloe dactyloides ‘Surfer Boy’",
 					"CommonName": "Male-Flowering Buffalo Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b2e8ee0f-b8bc-4851-bdc6-35813d672174.jpg",
@@ -1618,7 +1618,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Calamagrostis nutkaensis",
 					"CommonName": "Pacific Reedgrass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5b64a90f-232b-48db-bc4b-c06f2679f29b.jpg",
@@ -1626,7 +1626,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Carex divulsa",
 					"CommonName": "Berkeley Sedge",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a6474894-1976-4f0c-82fe-6a435a9e29df.jpg",
@@ -1634,7 +1634,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Carex pansa",
 					"CommonName": "California Dune Sedge",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1cff1a25-0b05-4446-ab47-52b7e0d1cdc0.jpg",
@@ -1642,7 +1642,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Clivia miniata",
 					"CommonName": "Kaffir Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_bfd1cc2f-8632-4961-a533-86980704f5d4.jpg",
@@ -1650,7 +1650,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Clivia miniata ‘nobilis’",
 					"CommonName": "Cape Clivia",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_79b58d75-2418-4a37-90a5-c3db1da50fcc.jpg",
@@ -1658,7 +1658,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Dietes ‘Jimmy Gridlion’s Giant’",
 					"CommonName": "African Iris",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6379c5fc-1afd-4562-a414-9de6df6dcbb8.jpg",
@@ -1666,7 +1666,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Dietes ‘Orange Drop’",
 					"CommonName": "Orange Drop Fortnight Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b4650575-f6bd-4d1b-b663-35663874632d.jpg",
@@ -1674,7 +1674,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Falkia repens",
 					"CommonName": "Creeping Falkia",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9138bc54-ad54-4c88-9468-382e9ad2db54.jpg",
@@ -1682,7 +1682,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Festuca altissima",
 					"CommonName": "Wood Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e52934b0-a7c2-4ea0-978a-2b97e42d307f.jpg",
@@ -1690,7 +1690,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Festuca mairei ‘Greenlee’s Form’",
 					"CommonName": "Atlas Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b3464f8a-5b07-465f-bb42-b0560293ec20.jpg",
@@ -1698,7 +1698,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Hedychium coccineum",
 					"CommonName": "Red Ginger Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_802d2e01-7f44-42df-bf6e-850395189546.jpg",
@@ -1706,7 +1706,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Hedychium coronarium",
 					"CommonName": "White Ginger",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_754796fd-afb3-4557-a180-a69b10a3b56c.jpg",
@@ -1714,7 +1714,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Hedychium flavescens",
 					"CommonName": "Yellow Ginger",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9069bff8-9e87-4c54-9c47-e8bc9fa13efa.jpg",
@@ -1722,7 +1722,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Kniphofia ‘Nancy’s Red’",
 					"CommonName": "Red Hot Poker",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e0c9ba65-f588-42d4-a556-662b27417607.jpg",
@@ -1730,7 +1730,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Kniphofia ‘Northiae’",
 					"CommonName": "Octopus Red-Hot Poker",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4781a482-b9fb-4a8a-b4a0-c17a1e0cd5e7.jpg",
@@ -1738,7 +1738,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Kniphofia ‘Zululandii’",
 					"CommonName": "Winter Cheer",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ca0d4be1-b797-4778-8807-2bdbe7ddf3fd.jpg",
@@ -1746,7 +1746,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Kniphofia multiflora",
 					"CommonName": "Giant Poker",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_79351294-9d61-489e-aa64-49f41ef0d633.jpg",
@@ -1754,7 +1754,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Kniphofia thompsonii",
 					"CommonName": "Alpine Poker",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a3bc83a8-bc57-467e-83d1-cb411c96af56.jpg",
@@ -1762,7 +1762,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Kniphofia uvaria ‘Malibu Yellow’",
 					"CommonName": "Yellow Kniphofia",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_687ad993-3a42-4a6b-9044-852809931bf0.jpg",
@@ -1770,7 +1770,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Lomandra ‘Gary’s Green’",
 					"CommonName": "Mat Rush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_f62f7c1b-6573-4b2c-8fe9-7df5ab322a52.jpg",
@@ -1778,7 +1778,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Lomandra longifolia Nyalla",
 					"CommonName": "Nyalla Mat Rush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_cd404af5-9e85-4d41-9e22-ace6cb816174.jpg",
@@ -1786,7 +1786,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Marsilea drummondii",
 					"CommonName": "Nardoo",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_456a60de-0e88-4e50-bfa6-f2b8b6963bad.jpg",
@@ -1794,7 +1794,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Marsilea mutica",
 					"CommonName": "Water Clover",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_43e4901c-c33a-429e-bf68-23f19e9225b7.jpg",
@@ -1802,7 +1802,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Marsilea schelpiana",
 					"CommonName": "Small-Leafed Water Clover",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_2d3bb4c1-5c1a-4e2a-a371-a50b9f2d99d5.jpg",
@@ -1810,7 +1810,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Marsilea vestita",
 					"CommonName": "California Marsilea",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_42189c5b-4a86-42d4-9a05-09b7ef090739.jpg",
@@ -1818,7 +1818,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Pennisetum spathiolatum",
 					"CommonName": "Slender Veldt Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50320a32-16e0-40ff-947d-b586a6b4352b.jpg",
@@ -1826,7 +1826,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Philodendron ‘Xanadu’",
 					"CommonName": "Philodendron",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9dead517-08dd-40ab-b955-a2522b482726.jpg",
@@ -1834,7 +1834,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Philodendron bipinnatifidum",
 					"CommonName": "Tree Philodendron",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_561bff46-d7ed-4a4e-8e91-075783325955.jpg",
@@ -1842,7 +1842,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Ruscus hypoglossum",
 					"CommonName": "Butcher’s Broom",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_26c1d8bc-b70c-4e1c-8b57-f724c8d03bc3.jpg",
@@ -1850,7 +1850,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Salvia apiana",
 					"CommonName": "White Sage",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_861305df-239c-4c2c-b4f3-458247622227.jpg",
@@ -1858,7 +1858,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Schefflera arborecola",
 					"CommonName": "Hawaiian Schefflera",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4d027221-172a-43db-ada3-60c6d1daaa92.jpg",
@@ -1866,7 +1866,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Schefflera pueckleri",
 					"CommonName": "Mallet Flower",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4e98ff64-120f-4e8e-8b0c-def1c4160112.jpg",
@@ -1874,7 +1874,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Strelitzia reginae",
 					"CommonName": "Bird of Paradise",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ab4513c1-1ef4-4689-b307-0f05f8e8a35d.jpg",
@@ -1882,7 +1882,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Urginea maritima",
 					"CommonName": "Sea Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6c69ee9-a2f3-4fcc-b38e-ed8fd53309a3.jpg",
@@ -1890,10 +1890,10 @@
 				}]
 			},
 			{
-				"Name": "Seed",
+				"Type": "Seed",
 				"Plants": [{
 					"Location": "Garden Hill",
-					"PlantType": "Seed",
+					"Type": "Seed",
 					"LatinName": "Festuca mairei ‘Greenlee’s Form’",
 					"CommonName": "Atlas Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b3464f8a-5b07-465f-bb42-b0560293ec20.jpg",
@@ -1901,7 +1901,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Seed",
+					"Type": "Seed",
 					"LatinName": "Pennisetum spathiolatum",
 					"CommonName": "Slender Veldt Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50320a32-16e0-40ff-947d-b586a6b4352b.jpg",
@@ -1909,10 +1909,10 @@
 				}]
 			},
 			{
-				"Name": "Succulents",
+				"Type": "Succulents",
 				"Plants": [{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aeonium arboreum",
 					"CommonName": "Tree Aeonium",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_50836b28-6a0c-4692-9a0f-3ab4132b3423.jpg",
@@ -1920,7 +1920,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aeonium arboreum ‘Zwartkop’",
 					"CommonName": "Tree Aeonium",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6afba491-dbc5-414b-9e57-9e39a7b9880d.jpg",
@@ -1928,7 +1928,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave ‘Sharkskin Shoes’",
 					"CommonName": "Northern Sharkskin Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_68fbec49-5e29-4d7f-b5f2-4cd0b78e7339.jpg",
@@ -1936,7 +1936,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave attenuata",
 					"CommonName": "Foxtail Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1edecfb5-871c-4cfa-95c6-e78e157e2dbe.JPG",
@@ -1944,7 +1944,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave attenuata ‘Boutin Blue’",
 					"CommonName": "Blue Foxtail Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1403de97-e2b4-44e9-812b-0e3b75687f89.jpg",
@@ -1952,7 +1952,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave bracteosa",
 					"CommonName": "Spider Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_fe180a25-8b1b-4d40-8c73-d0452f3ce649.jpg",
@@ -1960,7 +1960,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave franzosinii",
 					"CommonName": "Octopus Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_9bc85d96-0d7e-465d-814c-251b4aa2e689.jpg",
@@ -1968,7 +1968,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe marlothii",
 					"CommonName": "Mountain Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_37171852-293a-49cd-8d10-963a952be752.jpg",
@@ -1976,7 +1976,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe plicatilis",
 					"CommonName": "Fan Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ea518652-169c-4d23-9971-ee19cc1b94f0.jpg",
@@ -1984,7 +1984,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Aloe striata",
 					"CommonName": "Coral Aloe",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_7e80badd-3382-41ea-b51d-809dcdfff1c7.jpg",
@@ -1992,7 +1992,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Dasylirion longissimum",
 					"CommonName": "Mexican Grass Tree",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_bc7c8e8c-e3d9-4dbd-8e54-b2bd9457294a.jpg",
@@ -2000,7 +2000,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Dasylirion wheeleri",
 					"CommonName": "Desert Spoon",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_bbfc1b3d-4492-439f-85f2-88ca0322b7ed.jpg",
@@ -2008,7 +2008,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Doryanthes palmeri",
 					"CommonName": "Palmer Spear Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_484d1d05-7793-4e52-a780-b143a927f0ef.jpg",
@@ -2016,7 +2016,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Furcraea foetida",
 					"CommonName": "Mauritius Hemp",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_34bccc35-c657-4d71-ad31-e513d0dcad32.jpg",
@@ -2024,7 +2024,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Furcraea Macdougalii",
 					"CommonName": "MacDougal’s Century Plant",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b031152a-dbc3-404c-967e-3b7c26ddc715.jpg",
@@ -2032,7 +2032,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Hesperoyucca whipplei",
 					"CommonName": "Our Lord’s Candle",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5804e997-0a7a-41de-8c2c-61773ac39893.jpg",
@@ -2040,7 +2040,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Senecio talinoides",
 					"CommonName": "Blue Chalksticks",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_d99d92aa-98ed-4bed-8a38-e4b7549f3f2d.jpg",
@@ -2048,7 +2048,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Yucca recurvifolia",
 					"CommonName": "Soft Leaf Yucca",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1f001996-6d4a-4aae-bc47-a2f78caf2914.jpg",
@@ -2056,10 +2056,10 @@
 				}]
 			},
 			{
-				"Name": "Trees",
+				"Type": "Trees",
 				"Plants": [{
 					"Location": "Garden Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Brachychiton",
 					"CommonName": "Illawarra Flame Tree",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_bc1ff66e-4523-4dd9-854b-8e5a75642ae1.jpg",
@@ -2067,7 +2067,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Ceiba speciosa",
 					"CommonName": "Silk Floss Tree",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c9f92dd1-4931-4de4-abfe-daf4f8da2a4c.jpg",
@@ -2075,7 +2075,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Erythrina syksii",
 					"CommonName": "Australian Coral Tree",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_93abdd60-109d-455a-9492-019d303dad9d.jpg",
@@ -2083,7 +2083,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Platanus racemosa",
 					"CommonName": "California Sycamore",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ea744725-8cfd-4e06-82d8-1b054270585e.jpg",
@@ -2091,7 +2091,7 @@
 				},
 				{
 					"Location": "Garden Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Plumeria rubra",
 					"CommonName": "Frangipani",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_648d6a14-a1f4-4a79-99eb-4ea934ce090a.jpg",
@@ -2269,10 +2269,10 @@
 			"SHAPE_Leng": 840.02547305899998,
 			"SHAPE_Area": 45581.238882400001,
 			"PlantTypes": [{
-				"Name": "Bulbs",
+				"Type": "Bulbs",
 				"Plants": [{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Babiana ‘Blue gem’",
 					"CommonName": "Baboon Flower",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_589dca7f-5532-45fb-98be-9770a10ed4eb.jpg",
@@ -2280,7 +2280,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Babiana stricta hybrids",
 					"CommonName": "Baboon Flower",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a630a667-b25d-47f8-bc57-8de82b16186d.jpg",
@@ -2288,7 +2288,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Hyacinthoides hispanica ‘Blue’",
 					"CommonName": "Spanish Squill",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_dec9bf56-33e6-4613-b210-80767f9eea9b.jpg",
@@ -2296,7 +2296,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Ipheion uniflorum ‘Wisley Blue’",
 					"CommonName": "Spring Star Flower",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_67b6ec80-69c1-46a2-b4ec-4d2d34bba9ac.jpg",
@@ -2304,7 +2304,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Iris douglasiana",
 					"CommonName": "Douglas Iris",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_66ee0f73-6473-40aa-8c65-bfe6eccf45c6.jpg",
@@ -2312,7 +2312,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Iris nada",
 					"CommonName": "Butterfly Iris",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_09f96208-e750-4fa1-900f-80beb25943c1.jpg",
@@ -2320,7 +2320,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Oxalis deppei ‘Iron Cross’",
 					"CommonName": "Iron Cross Oxalis",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5e8a9907-23a7-4a41-8538-3a98c074bfef.jpg",
@@ -2328,7 +2328,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Oxalis purpurea ‘Grand Duchess White’",
 					"CommonName": "Grand Duchess White",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_be34d725-72e2-410f-ab35-06b1a611c0ed.jpg",
@@ -2336,7 +2336,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Oxalis purpurea ‘Grand Duchess’",
 					"CommonName": "Oxalis",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_f9b40d11-5c3f-46d0-bfd7-0a6baa4a8056.jpg",
@@ -2344,7 +2344,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Polianthes tuberosa",
 					"CommonName": "Tuberose",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_184aed35-e9b4-4b67-a7c4-d87921219181.jpg",
@@ -2352,7 +2352,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Bulbs",
+					"Type": "Bulbs",
 					"LatinName": "Zephyranthes candida",
 					"CommonName": "Fairy Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_8fc27917-5afe-4805-b42b-81f888f6ea9d.jpg",
@@ -2360,10 +2360,10 @@
 				}]
 			},
 			{
-				"Name": "Perennials and Grasses",
+				"Type": "Perennials and Grasses",
 				"Plants": [{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agapanthus ‘Mood Indigo’",
 					"CommonName": "African Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_7051f593-a8e7-44e3-bcf9-d7cfc6e0b410.jpg",
@@ -2371,7 +2371,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agapanthus ‘Storm Cloud’",
 					"CommonName": "African Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_31db5076-41ac-4617-8929-fd6eb1be10b5.jpg",
@@ -2379,7 +2379,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agapanthus inapertus ‘Graskop’",
 					"CommonName": "African Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a971aa2f-7460-4e22-bb2d-51b95ac1ea35.jpg",
@@ -2387,7 +2387,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agave americana",
 					"CommonName": "Century Plant",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_580fc551-a157-4926-9ad8-75e1c514f61d.jpg",
@@ -2395,7 +2395,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Agave attenuata",
 					"CommonName": "Foxtail Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1edecfb5-871c-4cfa-95c6-e78e157e2dbe.JPG",
@@ -2403,7 +2403,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Ajuga reptans ‘Catlin’s Giant’",
 					"CommonName": "Catlin’s Carpet Bugle",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_d9b68b57-ce3d-4c58-8873-c5923d5049bf.jpg",
@@ -2411,7 +2411,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Ajuga reptans ‘Texas Blue’",
 					"CommonName": "Blue Bugle",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_46df075d-6177-4592-9b4d-f840350d6cb3.jpg",
@@ -2419,7 +2419,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Aster chilensis ‘Purple Haze’",
 					"CommonName": "California Aster",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6916ea3a-f420-47f2-8754-927fe21f1859.jpg",
@@ -2427,7 +2427,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Aster frikartii ‘Monch’",
 					"CommonName": "Monch Aster",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_675ad4ad-6fde-4658-9ac9-7c9501809292.jpg",
@@ -2435,7 +2435,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Aster laevis ‘Bluebird’",
 					"CommonName": "Smooth Aster",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_d5f91fa2-5799-43ae-97f8-cc00c1a8c218.jpg",
@@ -2443,7 +2443,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Aster oblongifolius ‘Raydon’s Favorite’",
 					"CommonName": "Smooth Aster",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5009cd4e-eb8d-4a16-9db2-b00d71100d55.jpg",
@@ -2451,7 +2451,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Bellis perennis",
 					"CommonName": "Lawn Daisy",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_57c583c8-fde0-49ee-a078-7f0fd7997daf.jpg",
@@ -2459,7 +2459,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Bothriochloa barbinodis",
 					"CommonName": "Silver Beardgrass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_87438673-d7b9-481c-8256-522ce69de28c.jpg",
@@ -2467,7 +2467,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Bouteloua gracilis ‘Blonde Ambition’",
 					"CommonName": "Blue Grama",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b6d9ebef-6f87-4e08-8382-1eca4c234aca.jpg",
@@ -2475,7 +2475,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Calamagrostis nutkaensis",
 					"CommonName": "Pacific Reedgrass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_5b64a90f-232b-48db-bc4b-c06f2679f29b.jpg",
@@ -2483,7 +2483,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Carex divulsa",
 					"CommonName": "Berkeley Sedge",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_a6474894-1976-4f0c-82fe-6a435a9e29df.jpg",
@@ -2491,7 +2491,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Carex pansa",
 					"CommonName": "California Dune Sedge",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1cff1a25-0b05-4446-ab47-52b7e0d1cdc0.jpg",
@@ -2499,7 +2499,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Dietes ‘Jimmy Gridlion’s Giant’",
 					"CommonName": "African Iris",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6379c5fc-1afd-4562-a414-9de6df6dcbb8.jpg",
@@ -2507,7 +2507,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Dietes ‘Lemon Drop’",
 					"CommonName": "Lemon Drop Fortnight Lily",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_150e3ddc-6df5-45df-9945-bea45f1d372f.jpg",
@@ -2515,7 +2515,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Eleocharis macrostachya",
 					"CommonName": "Pale Spikerush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_339c8ba9-0210-4276-be4a-9b831584c753.jpg",
@@ -2523,7 +2523,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Festuca altissima",
 					"CommonName": "Wood Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e52934b0-a7c2-4ea0-978a-2b97e42d307f.jpg",
@@ -2531,7 +2531,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Festuca mairei ‘Greenlee’s Form’",
 					"CommonName": "Atlas Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b3464f8a-5b07-465f-bb42-b0560293ec20.jpg",
@@ -2539,7 +2539,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Lomandra ‘Gary’s Green’",
 					"CommonName": "Mat Rush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_f62f7c1b-6573-4b2c-8fe9-7df5ab322a52.jpg",
@@ -2547,7 +2547,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Lomandra longifolia",
 					"CommonName": "Spiny-Headed Mat Rush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_f13f31f6-1813-4828-ba46-2d1957a0e9fe.jpg",
@@ -2555,7 +2555,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Lomandra longifolia Nyalla",
 					"CommonName": "Nyalla Mat Rush",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_cd404af5-9e85-4d41-9e22-ace6cb816174.jpg",
@@ -2563,7 +2563,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Lygeum spartum",
 					"CommonName": "False Esparto Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_4bf97493-6351-49af-9dce-fef9c5a2bc95.jpg",
@@ -2571,7 +2571,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Muhlenbergia dubia",
 					"CommonName": "Pine Muhly",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_14bdbcb7-8c9a-426f-9cd1-5c51d500e012.jpg",
@@ -2579,7 +2579,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Muhlenbergia emersleyi",
 					"CommonName": "Bull Muhly",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_6a58d083-ce4f-455e-99e4-8a195e480785.jpg",
@@ -2587,7 +2587,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Muhlenbergia lindheimeri",
 					"CommonName": "Lindheimer’s Muhly",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_60c2eff0-d9e0-477e-b490-aa68ac719b87.jpg",
@@ -2595,7 +2595,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Pennisetum ‘Fairy Tales’",
 					"CommonName": "Fairy Tails Fountain Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e8b68a72-76dd-4918-ad39-f9584b09acb1.jpg",
@@ -2603,7 +2603,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Pennisetum frutescens",
 					"CommonName": "Nekkid Fountain Grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_f0d7dc8a-7a42-4174-8420-c5949b5d63a3.jpg",
@@ -2611,7 +2611,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Phleum nodosum",
 					"CommonName": "Small Timothy",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_78a68a80-8291-44fe-93f6-9e840d9bb2d7.jpg",
@@ -2619,7 +2619,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Salvia leucophylla ‘Point Sal Spreader’",
 					"CommonName": "Purple Sage",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ed287278-e5cb-4b42-9880-b9d3cc57fae0.JPG",
@@ -2627,7 +2627,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Salvia uliginosa",
 					"CommonName": "Bog Sage",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_c76c7ff0-9997-4d12-b20b-367f8de2967f.jpg",
@@ -2635,7 +2635,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Sesleria ‘Greenlee’s Hybrid’",
 					"CommonName": "Greenlee’s moor grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_e287f8e2-5e91-4ba7-8ffe-9cc14e48a2d9.jpg",
@@ -2643,7 +2643,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Perennials and Grasses",
+					"Type": "Perennials and Grasses",
 					"LatinName": "Sesleria heufleriana",
 					"CommonName": "Blue-Green moor grass",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_8c44dda3-be0c-44cf-9032-ad1e4d1e57a8.jpg",
@@ -2651,10 +2651,10 @@
 				}]
 			},
 			{
-				"Name": "Seed",
+				"Type": "Seed",
 				"Plants": [{
 					"Location": "Discovery Hill",
-					"PlantType": "Seed",
+					"Type": "Seed",
 					"LatinName": "Festuca mairei ‘Greenlee’s Form’",
 					"CommonName": "Atlas Fescue",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b3464f8a-5b07-465f-bb42-b0560293ec20.jpg",
@@ -2662,10 +2662,10 @@
 				}]
 			},
 			{
-				"Name": "Succulents",
+				"Type": "Succulents",
 				"Plants": [{
 					"Location": "Discovery Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave americana",
 					"CommonName": "Century Plant",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_580fc551-a157-4926-9ad8-75e1c514f61d.jpg",
@@ -2673,7 +2673,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Agave attenuata",
 					"CommonName": "Foxtail Agave",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_1edecfb5-871c-4cfa-95c6-e78e157e2dbe.JPG",
@@ -2681,7 +2681,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Dasylirion wheeleri",
 					"CommonName": "Desert Spoon",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_bbfc1b3d-4492-439f-85f2-88ca0322b7ed.jpg",
@@ -2689,7 +2689,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Succulents",
+					"Type": "Succulents",
 					"LatinName": "Furcraea foetida",
 					"CommonName": "Mauritius Hemp",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_34bccc35-c657-4d71-ad31-e513d0dcad32.jpg",
@@ -2697,10 +2697,10 @@
 				}]
 			},
 			{
-				"Name": "Trees",
+				"Type": "Trees",
 				"Plants": [{
 					"Location": "Discovery Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Arbutus marina",
 					"CommonName": "Marina Strawberry Tree",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_b229e1ad-66fc-44aa-a4cc-5700dee4b7bb.JPG",
@@ -2708,7 +2708,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Olea europaea",
 					"CommonName": "Olive",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_29df665e-f170-4c2b-b937-039c7cf76efe.jpg",
@@ -2716,7 +2716,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Olea europaea ‘Swan Hill’",
 					"CommonName": "Olive",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_2efba6a0-2dd5-486c-9c28-08e2773390e8.jpg",
@@ -2724,7 +2724,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Pinus halepensis",
 					"CommonName": "Aleppo Pine",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_bc399084-396b-4dbe-816a-49da9a3b9263.jpg",
@@ -2732,7 +2732,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Pinus pinea",
 					"CommonName": "Stone Pine",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_3fe57696-52e5-4822-9889-655e6acf2a6b.jpg",
@@ -2740,7 +2740,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Pinus torreyana",
 					"CommonName": "Torrey Pine",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_2e9d3416-0ef9-41d2-87ee-cad00aa28442.jpg",
@@ -2748,7 +2748,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Platanus racemosa",
 					"CommonName": "California Sycamore",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_ea744725-8cfd-4e06-82d8-1b054270585e.jpg",
@@ -2756,7 +2756,7 @@
 				},
 				{
 					"Location": "Discovery Hill",
-					"PlantType": "Trees",
+					"Type": "Trees",
 					"LatinName": "Quercus suber",
 					"CommonName": "Cork Oak",
 					"ThumbnailURL": "http://www.smgov.net/assets/0/62/2790/3976/4022/4562/4640/thumb_45a3a11e-c9fd-49ef-af85-8f3c1f168080.jpg",
