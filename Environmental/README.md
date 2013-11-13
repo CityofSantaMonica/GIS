@@ -22,4 +22,15 @@ We add an addional member, `PlantTypes`, to the Feature collection for each area
 			"ThumbnailURL": "http://www.smgov.net/.../thumb_xyz.jpg",
 			"ImageURL": "http://www.smgov.net/.../xyz.jpg"
 		}]
+	},
+	{
+		"Type": "Palms and Cycads",
+		"Plants": [{
+			"Location": "Observation Hill",
+			"Type": "Palms and Cycads",
+			"LatinName": "Dioon spinulosum",
+			"CommonName": "Giant Dioon",
+			"ThumbnailURL": "http://www.smgov.net/.../thumb_123.jpg",
+			"ImageURL": "http://www.smgov.net/.../123.jpg"
+		}]
 	}]
