@@ -11,7 +11,7 @@ The data available on this website, including Geographic Information Systems ("G
 Data Formats
 -----------
 
-The City of Santa Monica is providing most data files in the open [`geoJSON`](http://en.wikipedia.org/wiki/GeoJSON) file format.
+The City of Santa Monica is providing most data files in the open [`geoJSON`](http://geojson.org/) file format.
 
 If alternate file formats are desired, you can:
 
