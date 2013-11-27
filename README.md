@@ -8,15 +8,18 @@ Disclaimer
 
 The data available on this website, including Geographic Information Systems ("GIS") data, maps, tables, numbers, graphics, and text (hereinafter collectively referred to as the "Information"), is provided AS IS and for you to view, access, copy, distribute and otherwise use the Information at your own risk. City of Santa Monica and its affiliated entities, elected and appointed officers, officials, employees and agents make no representation or warranty of any kind regarding this website or Information, explicit or implied.
 
+Data Requests
+-------------
+
+The City welcomes requests for additional datasets. Please [submit an issue](https://github.com/CityofSantaMonica/GIS/issues) and we will do our best to fulfill the request in a timely manner.
+
 Data Formats
 -----------
 
-The City of Santa Monica is providing most data files in the open [`geoJSON`](http://geojson.org/) file format.
+The City of Santa Monica is providing most datasets in the open [`geoJSON`](http://geojson.org/) file format.
 
 If alternate file formats are desired, you can:
 
 1. Fork this repository.
-2. For each data set you are interested in, create a new directory (or use an existing directory).
-3. Convert the files that interest you into your format of choice. Place additional formats in a common directory.
-4. Submit a pull request.
-
+2. Convert the datasets that interest you into your format of choice. Place the various formats of a given dataset in a common directory.
+3. [Submit a pull request](https://github.com/CityOfSantaMonica/GIS/pulls).
