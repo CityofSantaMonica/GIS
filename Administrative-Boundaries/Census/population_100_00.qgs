@@ -23,28 +23,28 @@
             </spatialrefsys>
         </destinationsrs>
     </mapcanvas>
-    <legend updateDrawingOrder="true" activeLayer="100_0020131203094957392">
+    <legend updateDrawingOrder="true" activeLayer="100_0020131203101006195">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="population_100_00" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="population_100_0020131203095853678" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="population_100_0020131203095853678" visible="0"/>
             </filegroup>
         </legendlayer>
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="100_00" showFeatureCount="0">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="OGRGeoJSON" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="100_0020131203094957392" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="100_0020131203101006195" visible="1"/>
             </filegroup>
         </legendlayer>
     </legend>
     <projectlayers layercount="2">
-        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
-            <id>100_0020131203094957392</id>
+        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+            <id>100_0020131203101006195</id>
             <datasource>./100_00.geojson</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
                 <value></value>
             </keywordList>
-            <layername>100_00</layername>
+            <layername>OGRGeoJSON</layername>
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -64,16 +64,16 @@
             </vectorjoins>
             <renderer-v2 attr="population_100_00_DATA_VALUE" symbollevels="0" type="graduatedSymbol">
                 <ranges>
-                    <range symbol="0" lower="0.000000" upper="16.000000" label="0.0000 - 16.0000"/>
-                    <range symbol="1" lower="16.000000" upper="44.000000" label="16.0000 - 44.0000"/>
-                    <range symbol="2" lower="44.000000" upper="73.000000" label="44.0000 - 73.0000"/>
-                    <range symbol="3" lower="73.000000" upper="103.000000" label="73.0000 - 103.0000"/>
-                    <range symbol="4" lower="103.000000" upper="141.000000" label="103.0000 - 141.0000"/>
-                    <range symbol="5" lower="141.000000" upper="192.000000" label="141.0000 - 192.0000"/>
-                    <range symbol="6" lower="192.000000" upper="256.000000" label="192.0000 - 256.0000"/>
-                    <range symbol="7" lower="256.000000" upper="374.000000" label="256.0000 - 374.0000"/>
-                    <range symbol="8" lower="374.000000" upper="574.000000" label="374.0000 - 574.0000"/>
-                    <range symbol="9" lower="574.000000" upper="1246.000000" label="574.0000 - 1246.0000"/>
+                    <range symbol="0" lower="0.000000" upper="15.000000" label="0.0000 - 15.0000"/>
+                    <range symbol="1" lower="15.000000" upper="43.000000" label="15.0000 - 43.0000"/>
+                    <range symbol="2" lower="43.000000" upper="74.000000" label="43.0000 - 74.0000"/>
+                    <range symbol="3" lower="74.000000" upper="108.000000" label="74.0000 - 108.0000"/>
+                    <range symbol="4" lower="108.000000" upper="144.000000" label="108.0000 - 144.0000"/>
+                    <range symbol="5" lower="144.000000" upper="192.000000" label="144.0000 - 192.0000"/>
+                    <range symbol="6" lower="192.000000" upper="253.000000" label="192.0000 - 253.0000"/>
+                    <range symbol="7" lower="253.000000" upper="368.000000" label="253.0000 - 368.0000"/>
+                    <range symbol="8" lower="368.000000" upper="542.000000" label="368.0000 - 542.0000"/>
+                    <range symbol="9" lower="542.000000" upper="1246.000000" label="542.0000 - 1246.0000"/>
                 </ranges>
                 <symbols>
                     <symbol alpha="1" type="fill" name="0">
@@ -201,7 +201,7 @@
                     <symbol alpha="1" type="fill" name="0">
                         <layer pass="0" class="SimpleFill" locked="0">
                             <prop k="border_width_unit" v="MM"/>
-                            <prop k="color" v="83,213,161,255"/>
+                            <prop k="color" v="91,137,122,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="offset" v="0,0"/>
                             <prop k="offset_unit" v="MM"/>
@@ -409,9 +409,9 @@
             <provider encoding="UTF-8">delimitedtext</provider>
             <previewExpression></previewExpression>
             <vectorjoins/>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
