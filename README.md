@@ -16,4 +16,10 @@ The City welcomes requests for additional datasets. Please [submit an issue](htt
 Data Formats
 -----------
 
-The City of Santa Monica is providing most datasets in the open [`geoJSON`](http://geojson.org/) file format. Please [submit an issue](https://github.com/CityofSantaMonica/GIS/issues) if you would like data in an alternate format, and we will do our best to fulfill the request in a timely manner.
+The City of Santa Monica is providing most datasets in the open [`geoJSON`](http://geojson.org/) file format.
+
+If alternate file formats are desired, you can:
+
+1. Fork this repository.
+2. Convert the datasets that interest you into your format of choice. Place the various formats of a given dataset in a common directory.
+3. [Submit a pull request](https://github.com/CityOfSantaMonica/GIS/pulls).
