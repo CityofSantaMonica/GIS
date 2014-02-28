@@ -4,10 +4,10 @@
     <mapcanvas>
         <units>meters</units>
         <extent>
-            <xmin>-13197031.10657009109854698</xmin>
-            <ymin>4023919.2731061177328229</ymin>
-            <xmax>-13179160.25000419095158577</xmax>
-            <ymax>4034192.40970621723681688</ymax>
+            <xmin>-13192989.02689316309988499</xmin>
+            <ymin>4029791.29143334459513426</ymin>
+            <xmax>-13184053.59861021302640438</xmax>
+            <ymax>4034927.85973339434713125</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -26,7 +26,7 @@
     <legend updateDrawingOrder="true" activeLayer="preferential_zones20140228114030857">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="preferential-zone-information" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="preferential_zone_information20140228125923669" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="preferential_zone_information20140228125923669" visible="0"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Preferential Zones" showFeatureCount="0">
@@ -43,7 +43,7 @@
     <projectlayers layercount="3">
         <maplayer minimumScale="0" maximumScale="1e+08" ol_layer_type="1" type="plugin" hasScaleBasedVisibilityFlag="0" name="openlayers">
             <id>OpenLayers_plugin_layer20140228070245572</id>
-            <datasource></datasource>
+            <datasource>.</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -89,15 +89,15 @@
             <provider encoding="UTF-8">delimitedtext</provider>
             <previewExpression></previewExpression>
             <vectorjoins/>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
             <attributeactions/>
         </maplayer>
-        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Line" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Line" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
             <id>preferential_zones20140228114030857</id>
             <datasource>./preferential-zones.geojson</datasource>
             <title></title>
@@ -305,12 +305,12 @@
                 <edittype labelontop="0" editable="1" type="0" name="Shape_Le_1"/>
                 <edittype labelontop="0" editable="1" type="0" name="Shape_Leng"/>
                 <edittype labelontop="0" editable="1" type="0" name="ZONE"/>
-                <edittype labelontop="0" editable="0" type="0" name="preferential-zone-information_Description"/>
+                <edittype labelontop="0" editable="0" type="12" name="preferential-zone-information_Description"/>
                 <edittype labelontop="0" editable="0" type="0" name="preferential-zone-information_Ordinance"/>
             </edittypes>
-            <editform></editform>
+            <editform>.</editform>
             <editforminit></editforminit>
-            <annotationform></annotationform>
+            <annotationform>.</annotationform>
             <editorlayout>generatedlayout</editorlayout>
             <excludeAttributesWMS/>
             <excludeAttributesWFS/>
