@@ -17,7 +17,7 @@
             google.maps.visualRefresh = true;
             map = new google.maps.Map(document.getElementById('map'));
             var bounds = new google.maps.LatLngBounds();
-            $.getJSON('https://raw.github.com/CityofSantaMonica/GIS/master/Bike-Ways/bike_ways.geojson', function (data) {
+            $.getJSON('https://raw.github.com/CityofSantaMonica/GIS/master/streets/bicycle/ways.geojson', function (data) {
                 $.each(data.features, function (key, val) {
                     var poly = new google.maps.Polyline();
                     var points = new Array();
