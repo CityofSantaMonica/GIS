@@ -2,9 +2,9 @@
 
 Provided in both geoJSON and KML formats.
 
-## Land Use Zones
+## Zoning
 
-Current as of 2012 (New data available late 2013).
+Current as of 2012 (New data available late 2014).
 
 ## Parcel Boundaries
 
