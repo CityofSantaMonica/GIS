@@ -24,7 +24,6 @@
 { "type": "Feature", "properties": { "Id": 0, "Location": "Airport Park" }, "geometry": { "type": "Point", "coordinates": [ -118.4471942312891, 34.015876646706367 ] } },
 { "type": "Feature", "properties": { "Id": 0, "Location": "Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -118.47995975471871, 34.021556221180795 ] } },
 { "type": "Feature", "properties": { "Id": 0, "Location": "Reed Park" }, "geometry": { "type": "Point", "coordinates": [ -118.49600045012471, 34.022300299072604 ] } },
-{ "type": "Feature", "properties": { "Id": 0, "Location": "Civic Center" }, "geometry": { "type": "Point", "coordinates": [ -118.48881418893696, 34.009092116333555 ] } },
 { "type": "Feature", "properties": { "Id": 0, "Location": "Court House" }, "geometry": { "type": "Point", "coordinates": [ -118.48984729338893, 34.010818081762487 ] } },
 { "type": "Feature", "properties": { "Id": 0, "Location": "City Hall" }, "geometry": { "type": "Point", "coordinates": [ -118.49205187953197, 34.011931495636411 ] } },
 { "type": "Feature", "properties": { "Id": 0, "Location": "Parking Structure 1" }, "geometry": { "type": "Point", "coordinates": [ -118.49795278576696, 34.018312419887415 ] } },
