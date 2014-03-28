@@ -1,0 +1,36 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Palisades Park at San Vicente" }, "geometry": { "type": "Point", "coordinates": [ -118.51426880257263, 34.026271519537325 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Palisades Park at Idaho" }, "geometry": { "type": "Point", "coordinates": [ -118.50634630323117, 34.020761418150769 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Palisades Park at California" }, "geometry": { "type": "Point", "coordinates": [ -118.50244162530241, 34.017579788015581 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Douglas Park" }, "geometry": { "type": "Point", "coordinates": [ -118.48007527404705, 34.035916402262657 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Stewart Park" }, "geometry": { "type": "Point", "coordinates": [ -118.46617431976327, 34.02705478656862 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Virginia Park" }, "geometry": { "type": "Point", "coordinates": [ -118.46816734029947, 34.021477699528184 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "OFW Lot 8 North" }, "geometry": { "type": "Point", "coordinates": [ -118.50854005210276, 34.020832652870531 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "OFW Lot 3 North" }, "geometry": { "type": "Point", "coordinates": [ -118.50344967405285, 34.017178319446749 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Pier" }, "geometry": { "type": "Point", "coordinates": [ -118.49650323003158, 34.008981970647874 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "OFW Lot 3 South" }, "geometry": { "type": "Point", "coordinates": [ -118.49276908637614, 34.007430501802411 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "OFW Lot 4 South" }, "geometry": { "type": "Point", "coordinates": [ -118.49069746666584, 34.004570714623725 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Beach Park (North)" }, "geometry": { "type": "Point", "coordinates": [ -118.48663068538471, 34.001410346581153 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Beach Park (South)" }, "geometry": { "type": "Point", "coordinates": [ -118.48602755954424, 33.999599258957623 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "OFW Lot 5 South" }, "geometry": { "type": "Point", "coordinates": [ -118.48420264167335, 33.9976685410832 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Hotchkiss Park" }, "geometry": { "type": "Point", "coordinates": [ -118.48381654497111, 34.006118902716025 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Joslyn Park" }, "geometry": { "type": "Point", "coordinates": [ -118.48178168457331, 34.008172853074377 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Marine Park" }, "geometry": { "type": "Point", "coordinates": [ -118.46498787617956, 34.005887436105226 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Clover Park" }, "geometry": { "type": "Point", "coordinates": [ -118.45621491135388, 34.01668455996051 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Airport Park" }, "geometry": { "type": "Point", "coordinates": [ -118.4471942312891, 34.015876646706367 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Memorial Park" }, "geometry": { "type": "Point", "coordinates": [ -118.47995975471871, 34.021556221180795 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Reed Park" }, "geometry": { "type": "Point", "coordinates": [ -118.49600045012471, 34.022300299072604 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Civic Center" }, "geometry": { "type": "Point", "coordinates": [ -118.48881418893696, 34.009092116333555 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Court House" }, "geometry": { "type": "Point", "coordinates": [ -118.48984729338893, 34.010818081762487 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "City Hall" }, "geometry": { "type": "Point", "coordinates": [ -118.49205187953197, 34.011931495636411 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Parking Structure 1" }, "geometry": { "type": "Point", "coordinates": [ -118.49795278576696, 34.018312419887415 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Parking Structure 2" }, "geometry": { "type": "Point", "coordinates": [ -118.49907549082495, 34.017008289113917 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Parking Structure 3" }, "geometry": { "type": "Point", "coordinates": [ -118.49645848419479, 34.017061731541759 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Parking Structure 4" }, "geometry": { "type": "Point", "coordinates": [ -118.49778687870121, 34.015958369245205 ] } },
+{ "type": "Feature", "properties": { "Id": 0, "Location": "Parking Structure 6" }, "geometry": { "type": "Point", "coordinates": [ -118.49587372457989, 34.014312292629889 ] } }
+]
+}
