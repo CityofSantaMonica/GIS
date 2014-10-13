@@ -3,6 +3,8 @@ GIS Data Information and Disclaimer
 
 City of Santa Monica is making available several Geographic Information Systems (GIS) data layers for download on this website. This is being done to enhance the delivery of services to the public and, specifically, the GIS community. These layers will be updated from time to time, and new layers will be added as they become available.
 
+Visit the City of Santa Monica's Open Data Portal at <http://data.smgov.net> for additional (GIS and non-GIS related) datasets.
+
 Disclaimer
 ----------
 
